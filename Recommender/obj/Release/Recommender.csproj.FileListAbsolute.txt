@@ -1,0 +1,10 @@
+C:\Users\sanjana\Documents\Visual Studio 2012\Projects\Recommender\Recommender\bin\Release\Recommender.exe.config
+C:\Users\sanjana\Documents\Visual Studio 2012\Projects\Recommender\Recommender\bin\Release\Recommender.exe
+C:\Users\sanjana\Documents\Visual Studio 2012\Projects\Recommender\Recommender\bin\Release\Recommender.pdb
+C:\Users\sanjana\Documents\Visual Studio 2012\Projects\Recommender\Recommender\bin\Release\MyMediaLite.dll
+C:\Users\sanjana\Documents\Visual Studio 2012\Projects\Recommender\Recommender\bin\Release\Newtonsoft.Json.dll
+C:\Users\sanjana\Documents\Visual Studio 2012\Projects\Recommender\Recommender\bin\Release\MathNet.Numerics.dll
+C:\Users\sanjana\Documents\Visual Studio 2012\Projects\Recommender\Recommender\bin\Release\C5.dll
+C:\Users\sanjana\Documents\Visual Studio 2012\Projects\Recommender\Recommender\bin\Release\Newtonsoft.Json.xml
+C:\Users\sanjana\Documents\Visual Studio 2012\Projects\Recommender\Recommender\obj\Release\Recommender.exe
+C:\Users\sanjana\Documents\Visual Studio 2012\Projects\Recommender\Recommender\obj\Release\Recommender.pdb

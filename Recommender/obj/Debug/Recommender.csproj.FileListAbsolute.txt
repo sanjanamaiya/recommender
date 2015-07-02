@@ -1,0 +1,11 @@
+c:\users\sanjana\documents\visual studio 2012\Projects\Recommender\Recommender\bin\Debug\Recommender.exe.config
+c:\users\sanjana\documents\visual studio 2012\Projects\Recommender\Recommender\bin\Debug\Recommender.exe
+c:\users\sanjana\documents\visual studio 2012\Projects\Recommender\Recommender\bin\Debug\Recommender.pdb
+c:\users\sanjana\documents\visual studio 2012\Projects\Recommender\Recommender\bin\Debug\MyMediaLite.dll
+c:\users\sanjana\documents\visual studio 2012\Projects\Recommender\Recommender\bin\Debug\Newtonsoft.Json.dll
+c:\users\sanjana\documents\visual studio 2012\Projects\Recommender\Recommender\bin\Debug\MathNet.Numerics.dll
+c:\users\sanjana\documents\visual studio 2012\Projects\Recommender\Recommender\bin\Debug\C5.dll
+c:\users\sanjana\documents\visual studio 2012\Projects\Recommender\Recommender\bin\Debug\Newtonsoft.Json.xml
+c:\users\sanjana\documents\visual studio 2012\Projects\Recommender\Recommender\obj\Debug\Recommender.exe
+c:\users\sanjana\documents\visual studio 2012\Projects\Recommender\Recommender\obj\Debug\Recommender.pdb
+C:\Users\sanjana\Documents\Visual Studio 2012\Projects\Recommender\Recommender\obj\Debug\Recommender.csprojResolveAssemblyReference.cache
